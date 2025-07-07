@@ -20,7 +20,7 @@ h1 {
 p{
     font-size: 20px;
 }
-section{
+.chamada {
     background-color: rgb(195, 236, 238);
     display: flex;
     justify-content: center;
@@ -29,4 +29,8 @@ section{
 .chamada-texto {
     margin-right: 30px;
 
+}
+img{
+  width: 300px;
+  height: 200px;
 }
