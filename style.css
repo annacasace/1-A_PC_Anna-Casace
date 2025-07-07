@@ -9,7 +9,7 @@ body{
 header{
    font-size: 50px;
 
-   border-bottom:double 5px rgb(244, 87, 165);
+   border-bottom:double 5px rgb(29, 15, 22);
    padding: 50px;
    text-align: center;
    
@@ -19,4 +19,14 @@ h1 {
 }
 p{
     font-size: 20px;
+}
+section{
+    background-color: rgb(195, 236, 238);
+    display: flex;
+    justify-content: center;
+}
+
+.chmamada-texto {
+    margin-right: 30px;
+
 }
